@@ -1,2 +1,0 @@
-# ElasticSearchPOC
-Elastic Search Learning
